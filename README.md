@@ -1,2 +1,2 @@
 # Application
-# This is the update from developer A
+# This is an update A
