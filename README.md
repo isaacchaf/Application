@@ -1,2 +1,5 @@
 # Application
+<<<<<<< HEAD
 
+=======
+>>>>>>> developera
